@@ -151,11 +151,7 @@ twikoo:
   envId:
 
 ads:
-  ad_1:
-    title:
-    img:
-    url:
-    width: 300
+  {}
 
 lock:
   enable: false
