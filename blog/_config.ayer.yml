@@ -1,0 +1,162 @@
+# 侧边栏菜单
+menu:
+  主页: /
+  归档: /archives
+  分类: /categories
+  标签: /tags
+  友链: /friends
+  关于我: /about
+
+subtitle:
+  enable: true
+  text: 记录技术、生活和想法
+  text2: 慢慢写，认真生活
+  text3:
+  startDelay: 0
+  typeSpeed: 160
+  loop: true
+  backSpeed: 80
+  showCursor: true
+
+favicon: /favicon.ico
+logo: /images/ayer-side.svg
+
+cover:
+  enable: true
+  path: /images/cover1.jpg
+  logo: false
+
+progressBar: true
+
+broadcast:
+  enable: false
+  type: 1
+  text: 欢迎来到我的博客。
+
+excerpt_link: 阅读更多...
+excerpt_all: false
+
+copy_btn: true
+share_enable: false
+share_china: false
+share_text: 分享
+
+nav_text:
+  page_prev: 上一页
+  page_next: 下一页
+  post_prev: 上一篇
+  post_next: 下一篇
+
+toc: true
+image_viewer: true
+
+word_count:
+  enable: true
+  only_article_visit: true
+
+reward_type: 0
+reward_wording: "请我喝杯咖啡吧~"
+alipay: /images/alipay.jpg
+weixin: /images/wechat.jpg
+
+copyright_type: 1
+
+search: true
+rss: /atom.xml
+darkmode: true
+canvas_bg: 0
+
+mouse:
+  enable: false
+  path: /images/mouse.cur
+
+click_effect: 0
+
+layout:
+  article_width: 80rem
+  sidebar_width: 8rem
+
+github:
+  enable: false
+  url:
+
+music:
+  enable: false
+  type: 1
+  id:
+  autoPlay: false
+
+busuanzi:
+  enable: false
+
+cnzz:
+  enable: false
+  url:
+
+google_analytics: ""
+baidu_analytics: ""
+
+mathjax: false
+katex:
+  enable: false
+  allpost: false
+  copy_tex: false
+
+mermaid:
+  enable: false
+  cdn: https://cdn.staticfile.org/mermaid/8.14.0/mermaid.min.js
+  theme: forest
+
+since: 2026
+
+icp:
+  enable: false
+  url: "https://beian.miit.gov.cn/"
+  text:
+
+gongan:
+  enable: false
+  img: /images/beian.png
+  url:
+  text:
+
+friends_link:
+  Hexo:
+    url: https://hexo.io
+    img: /images/hexo.png
+  Ayer:
+    url: https://github.com/Shen-Yu/hexo-theme-ayer
+    img: /images/ayer.png
+
+leancloud:
+  enable: false
+  app_id:
+  app_key:
+
+valine:
+  enable: false
+  avatar: monsterid
+  placeholder: 留下你的想法吧~
+
+gitalk:
+  enable: false
+  clientID:
+  clientSecret:
+  repo:
+  owner:
+  admin:
+
+twikoo:
+  enable: false
+  envId:
+
+ads:
+  ad_1:
+    title:
+    img:
+    url:
+    width: 300
+
+lock:
+  enable: false
+  password:
