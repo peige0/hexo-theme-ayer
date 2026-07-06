@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我的博客</title>
+  
+  <subtitle>记录技术、生活和想法</subtitle>
+  <link href="https://peige0.github.io/hexo-theme-ayer/atom.xml" rel="self"/>
+  
+  <link href="https://peige0.github.io/hexo-theme-ayer/"/>
+  <updated>2026-07-06T03:39:36.124Z</updated>
+  <id>https://peige0.github.io/hexo-theme-ayer/</id>
+  
+  <author>
+    <name>Peige</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="https://peige0.github.io/hexo-theme-ayer/2026/07/06/hello-blog/"/>
+    <id>https://peige0.github.io/hexo-theme-ayer/2026/07/06/hello-blog/</id>
+    <published>2026-07-06T03:40:00.000Z</published>
+    <updated>2026-07-06T03:39:36.124Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好，这是我的第一篇博客。</p><p>这个站点使用 Hexo 搭建，主题使用 Ayer。之后可以在 <code>source/_posts</code> 目录里继续添加 Markdown 文件来写文章。</p><span id="more"></span><h2 id="接下来可以写什么"><a href="#接下来可以写什么" class="headerlink" title="接下来可以写什么"></a>接下来可以写什么</h2><ul><li>学习笔记</li><li>项目记录</li><li>生活随笔</li><li>读书摘录</li></ul><p>慢慢写就好，博客会随着内容变得越来越像你自己。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;你好，这是我的第一篇博客。&lt;/p&gt;
+&lt;p&gt;这个站点使用 Hexo 搭建，主题使用 Ayer。之后可以在 &lt;code&gt;source/_posts&lt;/code&gt; 目录里继续添加 Markdown 文件来写文章。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://peige0.github.io/hexo-theme-ayer/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="Hexo" scheme="https://peige0.github.io/hexo-theme-ayer/tags/Hexo/"/>
+    
+    <category term="博客" scheme="https://peige0.github.io/hexo-theme-ayer/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
