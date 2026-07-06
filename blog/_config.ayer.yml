@@ -64,7 +64,7 @@ copyright_type: 1
 search: true
 rss: /atom.xml
 darkmode: true
-canvas_bg: 0
+canvas_bg: 1
 
 mouse:
   enable: false
